@@ -1,7 +1,7 @@
 ### Olá, eu sou o Vinicius de Oliveira.
 
 
-- 🔭 Hoje trabalho como Analista de Implantação.
+- 🔭 Hoje trabalho como Analista de Implantação em uma empresa de Tecnologia.
 - 🌱 Estudando Desenvolvimento de Software com C#.
 
 
